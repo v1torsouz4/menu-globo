@@ -1,10 +1,10 @@
-import "./App.css"
+import "./Title.css"
 function Title({letreiro}) {
 
     return(
-      <p className="principal">
+      <h3 className="principal">
             {letreiro}
-        </p>
+        </h3>
     );
 }
 

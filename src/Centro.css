@@ -1,0 +1,44 @@
+.centro{
+
+    margin-left: 40px;
+  
+    width: 260px;
+  
+    padding: 4px;
+  
+    display: flex;
+      
+    border-top: 1px solid rgb(212, 203, 203);
+  
+  
+  }
+  
+.subtitulo{
+  
+    margin-left: 25px;
+  
+    color: #cc0000;
+  
+    font-family: Helvetica;
+  
+  
+  }
+
+.posicao{
+
+    margin-top: 45px;
+  
+    color: darkgray;
+  
+    font-family: Helvetica;
+    
+  }
+
+  .cen{
+
+    justify-content: center;
+  
+  }
+  
+  
+  
