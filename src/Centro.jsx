@@ -1,11 +1,11 @@
-import "./App.css"
+import "./Centro.css"
 function Centro({posicao, descricao}) {
 
     return(
-      <p className='Centro'>
-        <strong>{posicao}</strong>
-        <p>{descricao}</p>
-        </p>
+      <div className='centro'>
+        <p className="posicao">{posicao}</p>
+        <h5 className="subtitulo">{descricao}</h5>
+        </div>
     );
 }
 

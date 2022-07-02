@@ -1,5 +1,6 @@
 import Centro from "./Centro.jsx"
 import Title from "./Title.jsx"
+import "./Centro.css"
 
 function App(){
 
